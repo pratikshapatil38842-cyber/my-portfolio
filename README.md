@@ -27,7 +27,7 @@ Setup Instructions
 
 GitHub Repository Link
 
-https://github.com/pratikshapatil38842-cyber/my-portfolio
+https://github.com/pratikshapatil38842-cyber/my-portfolio/
 
 Live Website
 
